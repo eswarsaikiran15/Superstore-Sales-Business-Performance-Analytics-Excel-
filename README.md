@@ -4,7 +4,8 @@
 
 This project focuses on performing end-to-end sales and profitability analysis on a retail Superstore dataset using Microsoft Excel. The objective was to transform raw transactional data into meaningful business insights through data cleaning, feature engineering, exploratory analysis, dashboard development, and business reporting.
 
----
+<img width="1175" height="577" alt="image" src="https://github.com/user-attachments/assets/f313617b-5af5-4c1b-9159-a0c80ecf6a7a" />
+
 
 # Project Lifecycle
 
